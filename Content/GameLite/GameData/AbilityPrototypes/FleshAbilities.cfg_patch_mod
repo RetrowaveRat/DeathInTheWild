@@ -1,4 +1,0 @@
-// REMOVE FLESH JUMP ATTACK
-Flesh_JumpAttack : struct.begin {bpatch}
-   SID = 
-struct.end
