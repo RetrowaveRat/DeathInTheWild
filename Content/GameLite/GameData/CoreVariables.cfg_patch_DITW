@@ -1,7 +1,7 @@
 // CHANGE: Looting mutants same as looting NPCs
 
 DefaultConfig : struct.begin {bpatch}
-	MutantLootContainerInteractRange = 120.0
+	MutantLootContainerInteractRange = 240.0
 	MutantLootAnimCollection = empty
 	UseMutantLootWithoutWidget = empty
 	MutantLootInteractHeightMin = 50.f
