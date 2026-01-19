@@ -1,0 +1,34 @@
+Death In The Wild: A S.T.A.L.K.E.R. 2 Overhaul
+
+Inspired by The Legend of Zelda: Breath of the Wild, every weapon and armor piece you find is finite. There are no repairs, no purchases, and no selling! This system turns STALKER 2 into a more tactical and immersive survival experience, where every choice matters and exploration is its own reward.
+
+Weapons and armor are acquired by defeating enemies or scavenging the Zone. Once they wear out, they’re gone, forcing you to adapt and make strategic choices. Without the ability to sell or repair gear, you spend less time running back to town and more time exploring the Zone, uncovering secrets, and surviving encounters with what you find.
+
+Here are the main features:
+- Weapons and armors have reduced durability wear
+- NPCs now always drop armor
+- Mutants always drop mutant loot
+- Looted weapons and armor can have up to 100% durability
+- Technicians no longer repair or upgrade gear
+- Rebalanced NPCs (reduced health)
+- Rebalanced mutants (reduced armor and health, disabled some annoying abilities)
+- Rebalanced anomalies (to be less frustrating)
+- Rebalanced artifacts (added new effects)
+- NPCs less likely to use grenades
+- Removed hunger and sleepiness
+- Rebalanced healing items (food now slowly heals)
+- Rebalanced energy items (last longer)
+- Moving in water is less punishing (no instant-death)
+- Radiation fields have 50% less radiation
+- Re-itemized stashes
+- Added new armors (You can equip NPC armors)
+- Traders, Medics, and Technicians sell new items
+- Traders only purchase artifacts
+- Medics only purchase mutant loot
+- Consumables, quest Items and artifacts weigh nothing
+- Artifacts no longer "run" from you
+- More weapons can be equipped in the pistol slot
+- Mutants now trigger anomalies
+- Reduced player stamina costs
+- Player can vault over things easier
+- Removed the quest reset timer
