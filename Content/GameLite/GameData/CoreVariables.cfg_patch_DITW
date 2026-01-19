@@ -1,9 +1,29 @@
-// CHANGE: Looting mutants same as looting NPCs
-
 DefaultConfig : struct.begin {bpatch}
+
+	// CHANGE: Looting mutants same as looting NPCs
 	MutantLootContainerInteractRange = 240.0
 	MutantLootAnimCollection = empty
 	UseMutantLootWithoutWidget = empty
 	MutantLootInteractHeightMin = 50.f
 	MutantLootInteractHeightMax = 180.f
+
+	// CHANGE: Radiation fields have 50% less radiation
+	RadiationPresetValues : struct.begin {bpatch}
+	[0] : struct.begin {bpatch}
+		RadiationPerSecondValue = 0.5
+	struct.end
+	[1] : struct.begin {bpatch}
+		RadiationPerSecondValue = 1.5
+	struct.end
+	[2] : struct.begin {bpatch}
+		RadiationPerSecondValue = 3.0
+	struct.end
+	[3] : struct.begin {bpatch}
+		RadiationPerSecondValue = 16
+	struct.end
+	[4] : struct.begin {bpatch}
+		RadiationPerSecondValue = 25
+	struct.end
+struct.end
+
 struct.end
